@@ -47,7 +47,7 @@ Kent Ashley Tena METACRAFTERS
 
 # License
 
-This project is licensed under the MARICAR LOVERIZA License - MIT License
+This project is licensed under the Kent Ashley Tena License - MIT License
 
 Copyright (c) 2023 MetacrafterChris
 
